@@ -17,7 +17,7 @@ ul {
 }
 
 li {
-	display: inline-flexbox;
+	display:-moz-inline-grid;
 	margin: 0 10px;
 }
 
