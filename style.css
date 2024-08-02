@@ -17,7 +17,7 @@ ul {
 }
 
 li {
-	display: inline-block;
+	display: inline-flexbox;
 	margin: 0 10px;
 }
 
