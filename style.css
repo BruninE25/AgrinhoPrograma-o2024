@@ -17,8 +17,8 @@ ul {
 }
 
 li {
-	display:-moz-inline-grid;
-	margin: 0 10px;
+	display:inline-block;
+	margin: 0px;
 }
 
 a {
