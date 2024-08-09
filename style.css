@@ -5,10 +5,10 @@ height: 580px;}
 footer {
 	background-color: #1e1d1d;
 	color: hsl(0, 0%, 100%);
-	padding: 24px;
+	padding: 25px;
 	text-align: center;
-	margin-bottom: 30px;
-	width: 100%;
+	margin-bottom: 31px;
+	width: 150%;
 }
 
 ul {
